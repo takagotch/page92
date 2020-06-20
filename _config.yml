@@ -9,7 +9,7 @@ tags:
   - theme
   - netlify
 email: youremail@xyz.com
-disqus_username: disqus_username
+disqus_username: takagotch
 show_hero: true
 menu:
   - title: Home
@@ -24,12 +24,12 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: t
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: takagotch
+facebook_username: takagotch
+twitter_username: takagotch
+instagram_username: takagotch
+linkedin_username: takagotch
+medium_username: takagotch
 
 
 # Posts Settings
@@ -101,3 +101,6 @@ exclude: [
 
 # Theme
 version: v3.1.0
+
+
+
