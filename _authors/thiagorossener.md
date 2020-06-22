@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: https://takagotch.github.io/page92//assets/img/uploads/profile.png
+photo: https://takagotch.github.io/page92/assets/img/uploads/profile.png
 name: takagotch
 display_name: takagotch
 position: Chief Editor
