@@ -1,15 +1,15 @@
 ---
 layout: author
 photo: https://takagotch.github.io/page92//assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+name: takagotch
+display_name: takagotch
 position: Chief Editor
 bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+github_username: takagotch
+facebook_username: takagotch
+twitter_username: takagotch
+instagram_username: takagotch
+linkedin_username: takagotch
+medium_username: takagotch
 ---
 
