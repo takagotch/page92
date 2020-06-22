@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src={{ "/assets/img/uploads/profile.png" | prepend: site.baseurl }} alt="takagotch" width="200">
+<img class="img-rounded" src="https://takagotch.github.io/page92/assets/img/uploads/profile.png" alt="takagotch" width="200">
 
 # About
 
